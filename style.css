@@ -1,0 +1,64 @@
+html, body {
+	height: 95%;
+}
+
+body {
+	display: table;
+	height: 95%;
+	width: 95%;
+	text-align: center;
+	background: #141414;
+	color: #d6d6d6;
+}
+
+.content-box {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.content-box h1 {
+	font-family: 'Russo One', sans-serif;
+	font-size: 84px;
+	text-shadow: 2px 2px 2px #0000ff;
+	margin-bottom: 10px;
+}
+
+.content-box h2 {
+	font-family: 'Russo One', sans-serif;
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+a {
+	font-kerning: normal;
+	font-family: 'Russo One', sans-serif;
+	font-size: 35px;
+	color: #d1d1d1;
+	/*color: #8012e6; */
+	text-shadow: 1px 1px 1px #;
+	text-decoration: none;
+}
+
+.content-links {
+    margin-right: 25px;
+    margin-bottom: 30px
+}
+
+.content-icon-link-first {
+    margin-left: 10px
+}
+
+.content-icon-link {
+    width: 32px;
+    margin-right: 10px;
+}
+
+.content-text-link-first {
+    margin-left: 20px;
+}
+
+.content-text-link {
+    margin-right: 20px;
+    font-size: 25px;
+	color: #bb0000;
+}
