@@ -1,0 +1,28 @@
+[{
+		"title": "2017",
+		"folder": [{
+				"title": "01 - RiVeRx - Immortal",
+				"file": "music/2017/01%20-%20RiVeRx%20-%20Immortal.mp3"
+			},
+			{
+				"title": "02 - RiVeRx - The Dream",
+				"file": "music/2017/02%20-%20RiVeRx%20-%20The%20Dream.mp3"
+			},
+			{
+				"title": "03 - RiVeRx - Godslayer",
+				"file": "music/2017/03%20-%20RiVeRx%20-%20Godslayer.mp3"
+			},
+			{
+				"title": "04 - RiVeRx - If i were Sherlock",
+				"file": "music/2017/04%20-%20RiVeRx%20-%20If%20i%20were%20Sherlock.mp3"
+			}
+		]
+	},
+	{
+		"title": "Remixes",
+		"folder": [{
+			"title": "Dance Monkey - Tones and I (RiVeRx Remix)",
+			"file": "music/Dance%20Monkey%20-%20Tones%20and%20I%20%28RiVeRx%20Remix%29.mp3"
+		}]
+	}
+]

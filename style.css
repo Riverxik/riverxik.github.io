@@ -62,3 +62,14 @@ a {
     font-size: 25px;
 	color: #bb0000;
 }
+
+.content-text-link-second {
+	margin-left: 20px;
+	color: #0000bb;
+}
+
+.content-text-title {
+	font-size: 26px;
+	text-shadow: 2px 2px 2px #0000ff;
+	margin-bottom: 10px;
+}
